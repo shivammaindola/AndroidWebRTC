@@ -1,0 +1,442 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:1-64:12
+MERGED from [androidx.databinding:databinding-adapters:3.6.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\42f44e89a3080f3d324c6b68fbbcda82\databinding-adapters-3.6.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.6.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\f98d5e61c91e336a6c4092908fbf7df0\databinding-runtime-3.6.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3fbc1fd346f80d1ea6db5e99ab41d4e4\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\ca34e3718711922eb8247490afe9d47d\jetified-firebase-database-16.0.4\AndroidManifest.xml:15:1-25:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\e4a619cdc2ad9f58b4f2ea27121966d0\rxandroid-2.0.1\AndroidManifest.xml:15:1-21:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\073557272cdb0504ec443c1fdd6e13ca\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:2:1-34:12
+MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\258d99a7bddad2bb2eec36b8eaa0beba\jetified-easypermissions-1.1.3\AndroidManifest.xml:2:1-19:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\552e3c13544b6b392779caa2aa575d57\jetified-android-image-cropper-2.6.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\8dab7c41e7b7b6d5d8a07bee2c68b598\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\46702dfb46a9155127470b8e4570990c\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\eaa17a16c2cf57ffcbbdd8da45a47674\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:3.6.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\0030a5743e111e54ee4b587336c0d39d\jetified-viewbinding-3.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\ed6d4cc7b9764024ffb71a2369bddac3\firebase-database-collection-17.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\b38978de3ad901bc15905cc316b0a257\firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\e9f0acc79fadc9fbad6bf080176f6020\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\2465f099dd7150b541b6b858bc6f977b\play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\6c138ad622ceb17438e1bf1389eb7f37\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\bfa7ad81033e0a315c770b343bc9e992\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\037fbbf930394a5180488f53e0b27942\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\34e8eba7d42c4b30a741a2f064be41e3\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\b9f680570392d2941077c96ac0071037\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\b422219dec3a7e32cfbb73e3fb88e165\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\4cc8ce47c6dbbb6c51259e469a03b7d6\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\744e20a78dacd4e10a3ccb1c5582fd4a\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\17f9bddc9992d9e356f424e919c9a01c\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\458d8696fed65034db6dcee48409b4a0\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\06b812f6d774b24152207909eeade351\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\2b4bff7edcef561489f1a4d02758ff58\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\88885b8afb892f2c4c92950308f02240\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\a4f6df70d59f282df2678e78fe44b186\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\b5b4183164e6df6068232ba173eb5eb8\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\c3c67a6b0c567715c1b761e2bc561a80\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\5984c14c05779acabb8c48df2f27eee8\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\e2909dcc3eaf447f46fc603a5de31d87\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\a4878a1892a08fcb01f2d0181235bf63\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\a4fafc86370755d7c904d03ef3971083\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\102edf060ace7f6700d22f562ffc82af\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\79ec9f0fb008e367a10ee5adcc081489\firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\54bb5691b6f84ec3f5721158cbfd6093\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\595abc47a2d4a55785d80658cffde5e2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\d4f6c3b74c9a46c978ee06464d9d874f\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\d1e480b7a3e38bc5bb2c563b2e91c373\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\812334fc979131257e9cd9e9abfdbe50\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\cdb774487ecaaaf9278822196b847146\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\7198d9a0add136c8c7f5999756bca948\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\0b9bf634acdd10594ed1943604738b44\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\51fbd676cad088c8a4d58d2bba77ef58\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\d5066f9de9ba85be97fe0ddf5875f200\protolite-well-known-types-17.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\c4900bfe220158a1e8f7e06a76fc2d57\grpc-android-1.21.0\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:5:5-60
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:5:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:6:19-67
+uses-feature#0x00020000
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:7:5-9:35
+	android:glEsVersion
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:required
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:9:9-32
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:11:5-65
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:11:5-65
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:14:22-68
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:15:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\ca34e3718711922eb8247490afe9d47d\jetified-firebase-database-16.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\ca34e3718711922eb8247490afe9d47d\jetified-firebase-database-16.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:17:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\ca34e3718711922eb8247490afe9d47d\jetified-firebase-database-16.0.4\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\ca34e3718711922eb8247490afe9d47d\jetified-firebase-database-16.0.4\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\c4900bfe220158a1e8f7e06a76fc2d57\grpc-android-1.21.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\c4900bfe220158a1e8f7e06a76fc2d57\grpc-android-1.21.0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:18:22-65
+application
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:20:5-62:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3fbc1fd346f80d1ea6db5e99ab41d4e4\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3fbc1fd346f80d1ea6db5e99ab41d4e4\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\073557272cdb0504ec443c1fdd6e13ca\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\073557272cdb0504ec443c1fdd6e13ca\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:14:5-32:19
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:14:5-32:19
+MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\258d99a7bddad2bb2eec36b8eaa0beba\jetified-easypermissions-1.1.3\AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\258d99a7bddad2bb2eec36b8eaa0beba\jetified-easypermissions-1.1.3\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\b38978de3ad901bc15905cc316b0a257\firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\b38978de3ad901bc15905cc316b0a257\firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\e9f0acc79fadc9fbad6bf080176f6020\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\e9f0acc79fadc9fbad6bf080176f6020\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\2465f099dd7150b541b6b858bc6f977b\play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\2465f099dd7150b541b6b858bc6f977b\play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\5984c14c05779acabb8c48df2f27eee8\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\5984c14c05779acabb8c48df2f27eee8\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\a4878a1892a08fcb01f2d0181235bf63\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\a4878a1892a08fcb01f2d0181235bf63\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\5984c14c05779acabb8c48df2f27eee8\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.myhexaville.androidwebrtc.app_rtc_sample.main.AppRTCMainActivity
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:26:9-29:55
+	android:label
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:28:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:29:13-52
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:27:13-67
+activity#com.myhexaville.androidwebrtc.app_rtc_sample.call.CallActivity
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:30:9-35:52
+	android:screenOrientation
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:33:13-45
+	android:configChanges
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:32:13-59
+	android:theme
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:31:13-61
+activity#com.myhexaville.androidwebrtc.LauncherActivity
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:36:9-45:20
+	android:label
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:38:13-58
+	android:theme
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:37:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:43:27-74
+activity#com.myhexaville.androidwebrtc.tutorial.CameraRenderActivity
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:46:9-49:59
+	android:label
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:48:13-45
+	android:theme
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:47:13-58
+activity#com.myhexaville.androidwebrtc.tutorial.MediaStreamActivity
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:50:9-53:59
+	android:label
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:52:13-74
+	android:theme
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:51:13-57
+activity#com.myhexaville.androidwebrtc.tutorial.DataChannelActivity
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:54:9-57:59
+	android:label
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:56:13-71
+	android:theme
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:55:13-57
+activity#com.myhexaville.androidwebrtc.tutorial.CompleteActivity
+ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:58:9-61:68
+	android:label
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:60:13-60
+	android:theme
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:61:13-56
+	android:name
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:59:13-54
+uses-sdk
+INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.6.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\42f44e89a3080f3d324c6b68fbbcda82\databinding-adapters-3.6.0\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.6.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\42f44e89a3080f3d324c6b68fbbcda82\databinding-adapters-3.6.0\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\f98d5e61c91e336a6c4092908fbf7df0\databinding-runtime-3.6.0\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\f98d5e61c91e336a6c4092908fbf7df0\databinding-runtime-3.6.0\AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3fbc1fd346f80d1ea6db5e99ab41d4e4\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3fbc1fd346f80d1ea6db5e99ab41d4e4\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\ca34e3718711922eb8247490afe9d47d\jetified-firebase-database-16.0.4\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\ca34e3718711922eb8247490afe9d47d\jetified-firebase-database-16.0.4\AndroidManifest.xml:18:5-20:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\e4a619cdc2ad9f58b4f2ea27121966d0\rxandroid-2.0.1\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\e4a619cdc2ad9f58b4f2ea27121966d0\rxandroid-2.0.1\AndroidManifest.xml:19:5-43
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\073557272cdb0504ec443c1fdd6e13ca\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\073557272cdb0504ec443c1fdd6e13ca\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\258d99a7bddad2bb2eec36b8eaa0beba\jetified-easypermissions-1.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\258d99a7bddad2bb2eec36b8eaa0beba\jetified-easypermissions-1.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\552e3c13544b6b392779caa2aa575d57\jetified-android-image-cropper-2.6.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\552e3c13544b6b392779caa2aa575d57\jetified-android-image-cropper-2.6.0\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\8dab7c41e7b7b6d5d8a07bee2c68b598\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\8dab7c41e7b7b6d5d8a07bee2c68b598\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\46702dfb46a9155127470b8e4570990c\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\46702dfb46a9155127470b8e4570990c\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\eaa17a16c2cf57ffcbbdd8da45a47674\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\eaa17a16c2cf57ffcbbdd8da45a47674\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.databinding:viewbinding:3.6.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\0030a5743e111e54ee4b587336c0d39d\jetified-viewbinding-3.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\0030a5743e111e54ee4b587336c0d39d\jetified-viewbinding-3.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\ed6d4cc7b9764024ffb71a2369bddac3\firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\ed6d4cc7b9764024ffb71a2369bddac3\firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\b38978de3ad901bc15905cc316b0a257\firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\b38978de3ad901bc15905cc316b0a257\firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\e9f0acc79fadc9fbad6bf080176f6020\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\e9f0acc79fadc9fbad6bf080176f6020\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\2465f099dd7150b541b6b858bc6f977b\play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\2465f099dd7150b541b6b858bc6f977b\play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\6c138ad622ceb17438e1bf1389eb7f37\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\6c138ad622ceb17438e1bf1389eb7f37\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\bfa7ad81033e0a315c770b343bc9e992\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\bfa7ad81033e0a315c770b343bc9e992\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\037fbbf930394a5180488f53e0b27942\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\037fbbf930394a5180488f53e0b27942\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\34e8eba7d42c4b30a741a2f064be41e3\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\34e8eba7d42c4b30a741a2f064be41e3\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\b9f680570392d2941077c96ac0071037\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\b9f680570392d2941077c96ac0071037\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\b422219dec3a7e32cfbb73e3fb88e165\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\b422219dec3a7e32cfbb73e3fb88e165\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\4cc8ce47c6dbbb6c51259e469a03b7d6\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\4cc8ce47c6dbbb6c51259e469a03b7d6\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\744e20a78dacd4e10a3ccb1c5582fd4a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\744e20a78dacd4e10a3ccb1c5582fd4a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\17f9bddc9992d9e356f424e919c9a01c\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\17f9bddc9992d9e356f424e919c9a01c\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\458d8696fed65034db6dcee48409b4a0\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\458d8696fed65034db6dcee48409b4a0\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\06b812f6d774b24152207909eeade351\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\06b812f6d774b24152207909eeade351\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\2b4bff7edcef561489f1a4d02758ff58\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\2b4bff7edcef561489f1a4d02758ff58\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\88885b8afb892f2c4c92950308f02240\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\88885b8afb892f2c4c92950308f02240\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\a4f6df70d59f282df2678e78fe44b186\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\a4f6df70d59f282df2678e78fe44b186\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\b5b4183164e6df6068232ba173eb5eb8\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\b5b4183164e6df6068232ba173eb5eb8\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\c3c67a6b0c567715c1b761e2bc561a80\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\c3c67a6b0c567715c1b761e2bc561a80\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\5984c14c05779acabb8c48df2f27eee8\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\5984c14c05779acabb8c48df2f27eee8\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\e2909dcc3eaf447f46fc603a5de31d87\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\e2909dcc3eaf447f46fc603a5de31d87\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\a4878a1892a08fcb01f2d0181235bf63\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\a4878a1892a08fcb01f2d0181235bf63\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\a4fafc86370755d7c904d03ef3971083\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\a4fafc86370755d7c904d03ef3971083\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\102edf060ace7f6700d22f562ffc82af\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\102edf060ace7f6700d22f562ffc82af\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\79ec9f0fb008e367a10ee5adcc081489\firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\79ec9f0fb008e367a10ee5adcc081489\firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\54bb5691b6f84ec3f5721158cbfd6093\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\54bb5691b6f84ec3f5721158cbfd6093\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\595abc47a2d4a55785d80658cffde5e2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\595abc47a2d4a55785d80658cffde5e2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\d4f6c3b74c9a46c978ee06464d9d874f\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\d4f6c3b74c9a46c978ee06464d9d874f\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\d1e480b7a3e38bc5bb2c563b2e91c373\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\d1e480b7a3e38bc5bb2c563b2e91c373\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\812334fc979131257e9cd9e9abfdbe50\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\812334fc979131257e9cd9e9abfdbe50\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\cdb774487ecaaaf9278822196b847146\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\cdb774487ecaaaf9278822196b847146\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\7198d9a0add136c8c7f5999756bca948\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\7198d9a0add136c8c7f5999756bca948\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\0b9bf634acdd10594ed1943604738b44\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\0b9bf634acdd10594ed1943604738b44\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\51fbd676cad088c8a4d58d2bba77ef58\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\51fbd676cad088c8a4d58d2bba77ef58\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\d5066f9de9ba85be97fe0ddf5875f200\protolite-well-known-types-17.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\d5066f9de9ba85be97fe0ddf5875f200\protolite-well-known-types-17.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\c4900bfe220158a1e8f7e06a76fc2d57\grpc-android-1.21.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\c4900bfe220158a1e8f7e06a76fc2d57\grpc-android-1.21.0\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:12:22-77
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:18:9-21:47
+	android:screenOrientation
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:20:13-49
+	android:theme
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:21:13-44
+	android:name
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:19:13-76
+provider#com.myhexaville.smartimagepicker.CustomFileProvider
+ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:23:9-31:20
+	android:grantUriPermissions
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:27:13-47
+	android:authorities
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:25:13-79
+	android:exported
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:24:13-79
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:28:13-30:54
+	android:resource
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:30:17-51
+	android:name
+		ADDED from [com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:29:17-67
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\258d99a7bddad2bb2eec36b8eaa0beba\jetified-easypermissions-1.1.3\AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\258d99a7bddad2bb2eec36b8eaa0beba\jetified-easypermissions-1.1.3\AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\258d99a7bddad2bb2eec36b8eaa0beba\jetified-easypermissions-1.1.3\AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\258d99a7bddad2bb2eec36b8eaa0beba\jetified-easypermissions-1.1.3\AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\258d99a7bddad2bb2eec36b8eaa0beba\jetified-easypermissions-1.1.3\AndroidManifest.xml:13:13-86
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:19:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:18:13-84
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:21:17-111
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\2465f099dd7150b541b6b858bc6f977b\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\2465f099dd7150b541b6b858bc6f977b\play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\2465f099dd7150b541b6b858bc6f977b\play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

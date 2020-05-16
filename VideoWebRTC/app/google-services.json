@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "527072804818",
+    "firebase_url": "https://samplevideocall-7b435.firebaseio.com",
+    "project_id": "samplevideocall-7b435",
+    "storage_bucket": "samplevideocall-7b435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527072804818:android:17096e58b1d949c965920b",
+        "android_client_info": {
+          "package_name": "com.myhexaville.androidwebrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527072804818-rlnp1qb8t1qgkd770ccq34e0u7sjl5ga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myhexaville.androidwebrtc",
+            "certificate_hash": "d7e6840cea432535c00cb309825808bf77e63cc3"
+          }
+        },
+        {
+          "client_id": "527072804818-0pgbe5lfn1qgkk36ebkbusm5pnciiapt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsRfcP-HU2Wh8HVyxtoPCbzsqFPwexwS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527072804818-0pgbe5lfn1qgkk36ebkbusm5pnciiapt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

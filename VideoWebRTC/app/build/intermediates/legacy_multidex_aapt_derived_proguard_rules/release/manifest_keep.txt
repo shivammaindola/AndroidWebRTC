@@ -1,0 +1,4 @@
+# Referenced at C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:27
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:27
+-keep class androidx.multidex.MultiDexApplication { <init>(); }

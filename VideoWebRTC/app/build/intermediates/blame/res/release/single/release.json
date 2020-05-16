@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_socket_io.xml.flat",
+        "source": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\src\\main\\res\\layout\\activity_socket_io.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_disconnect.xml.flat",
+        "source": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\src\\main\\res\\drawable\\disconnect.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_call.xml.flat",
+        "source": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\src\\main\\res\\layout\\activity_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\release\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_sample_peer_connection.xml.flat",
+        "source": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\src\\main\\res\\layout\\activity_sample_peer_connection.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_hud.xml.flat",
+        "source": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\src\\main\\res\\layout\\fragment_hud.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_sample_camera_render.xml.flat",
+        "source": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\src\\main\\res\\layout\\activity_sample_camera_render.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_call.xml.flat",
+        "source": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\src\\main\\res\\drawable\\call.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_sample_data_channel.xml.flat",
+        "source": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\src\\main\\res\\layout\\activity_sample_data_channel.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_launch.xml.flat",
+        "source": "C:\\Users\\shiva\\AndroidStudioProjects\\VideoCall\\Android-WebRtc-master\\app\\src\\main\\res\\layout\\activity_launch.xml"
+    }
+]

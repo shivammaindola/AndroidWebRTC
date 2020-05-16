@@ -1,0 +1,223 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.myhexaville.androidwebrtc"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-feature android:name="android.hardware.camera" />
+11-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:5:5-60
+11-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:5:19-57
+12    <uses-feature android:name="android.hardware.camera.autofocus" />
+12-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:6:5-70
+12-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:6:19-67
+13    <uses-feature
+13-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:7:5-9:35
+14        android:glEsVersion="0x00020000"
+14-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:8:9-41
+15        android:required="true" />
+15-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:9:9-32
+16
+17    <uses-permission android:name="android.permission.CAMERA" />
+17-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:11:5-65
+17-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:11:22-62
+18    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+18-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:12:5-79
+18-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:12:22-76
+19    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+19-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:13:5-80
+19-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:13:22-77
+20    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+20-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:14:5-71
+20-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:14:22-68
+21    <uses-permission android:name="android.permission.INTERNET" />
+21-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:15:5-67
+21-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:15:22-64
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+22-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:16:5-81
+22-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:16:22-78
+23    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+23-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:17:5-79
+23-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:17:22-76
+24    <uses-permission android:name="android.permission.BLUETOOTH" />
+24-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:18:5-68
+24-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:18:22-65
+25    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+25-->[com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:12:5-80
+25-->[com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:12:22-77
+26
+27    <application
+27-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:20:5-62:19
+28        android:name="androidx.multidex.MultiDexApplication"
+29        android:allowBackup="true"
+29-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:21:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\5984c14c05779acabb8c48df2f27eee8\core-1.0.0\AndroidManifest.xml:22:18-86
+31        android:icon="@mipmap/ic_launcher"
+31-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:22:9-43
+32        android:label="@string/app_name"
+32-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:23:9-41
+33        android:supportsRtl="true"
+33-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:24:9-35
+34        android:testOnly="true"
+35        android:theme="@style/AppTheme" >
+35-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:25:9-40
+36        <activity
+36-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:26:9-29:55
+37            android:name="com.myhexaville.androidwebrtc.app_rtc_sample.main.AppRTCMainActivity"
+37-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:27:13-67
+38            android:label="@string/app_name"
+38-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:28:13-45
+39            android:windowSoftInputMode="adjustPan" />
+39-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:29:13-52
+40        <activity
+40-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:30:9-35:52
+41            android:name="com.myhexaville.androidwebrtc.app_rtc_sample.call.CallActivity"
+41-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:31:13-61
+42            android:configChanges="orientation|screenSize"
+42-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:32:13-59
+43            android:label="@string/app_name"
+43-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:33:13-45
+44            android:screenOrientation="fullUser"
+44-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:34:13-49
+45            android:theme="@style/AppTheme.Call" />
+45-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:35:13-49
+46        <activity
+46-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:36:9-45:20
+47            android:name="com.myhexaville.androidwebrtc.LauncherActivity"
+47-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:37:13-45
+48            android:label="@string/title_activity_launch"
+48-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:38:13-58
+49            android:theme="@style/AppTheme.NoActionBar" >
+49-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:39:13-56
+50            <intent-filter>
+50-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:40:13-44:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:41:17-69
+51-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:41:25-66
+52
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:43:17-77
+53-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:43:27-74
+54            </intent-filter>
+55        </activity>
+56        <activity
+56-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:46:9-49:59
+57            android:name="com.myhexaville.androidwebrtc.tutorial.CameraRenderActivity"
+57-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:47:13-58
+58            android:label="@string/app_name"
+58-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:48:13-45
+59            android:theme="@style/AppTheme.NoActionBar" />
+59-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:49:13-56
+60        <activity
+60-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:50:9-53:59
+61            android:name="com.myhexaville.androidwebrtc.tutorial.MediaStreamActivity"
+61-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:51:13-57
+62            android:label="@string/title_activity_sample_peer_connection"
+62-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:52:13-74
+63            android:theme="@style/AppTheme.NoActionBar" />
+63-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:53:13-56
+64        <activity
+64-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:54:9-57:59
+65            android:name="com.myhexaville.androidwebrtc.tutorial.DataChannelActivity"
+65-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:55:13-57
+66            android:label="@string/title_activity_sample_data_channel"
+66-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:56:13-71
+67            android:theme="@style/AppTheme.NoActionBar" />
+67-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:57:13-56
+68        <activity
+68-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:58:9-61:68
+69            android:name="com.myhexaville.androidwebrtc.tutorial.CompleteActivity"
+69-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:59:13-54
+70            android:label="@string/title_activity_complete"
+70-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:60:13-60
+71            android:theme="@style/AppTheme.NoActionBar" />
+71-->C:\Users\shiva\AndroidStudioProjects\VideoCall\Android-WebRtc-master\app\src\main\AndroidManifest.xml:61:13-56
+72        <activity
+72-->[com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:18:9-21:47
+73            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+73-->[com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:19:13-76
+74            android:screenOrientation="portrait"
+74-->[com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:20:13-49
+75            android:theme="@style/AppTheme" />
+75-->[com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:21:13-44
+76
+77        <provider
+77-->[com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:23:9-31:20
+78            android:name="com.myhexaville.smartimagepicker.CustomFileProvider"
+78-->[com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:24:13-79
+79            android:authorities="com.myhexaville.androidwebrtc.smart-image-picket-provider"
+79-->[com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:25:13-79
+80            android:exported="false"
+80-->[com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:26:13-37
+81            android:grantUriPermissions="true" >
+81-->[com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:27:13-47
+82            <meta-data
+82-->[com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:28:13-30:54
+83                android:name="android.support.FILE_PROVIDER_PATHS"
+83-->[com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:29:17-67
+84                android:resource="@xml/file_paths" />
+84-->[com.myhexaville:smart-image-picker:1.0.4] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\795c9ca31a5a2790ce800d57f7d15372\jetified-smart-image-picker-1.0.4\AndroidManifest.xml:30:17-51
+85        </provider>
+86
+87        <activity
+87-->[pub.devrel:easypermissions:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\258d99a7bddad2bb2eec36b8eaa0beba\jetified-easypermissions-1.1.3\AndroidManifest.xml:12:9-16:66
+88            android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+88-->[pub.devrel:easypermissions:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\258d99a7bddad2bb2eec36b8eaa0beba\jetified-easypermissions-1.1.3\AndroidManifest.xml:13:13-86
+89            android:exported="false"
+89-->[pub.devrel:easypermissions:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\258d99a7bddad2bb2eec36b8eaa0beba\jetified-easypermissions-1.1.3\AndroidManifest.xml:14:13-37
+90            android:label=""
+90-->[pub.devrel:easypermissions:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\258d99a7bddad2bb2eec36b8eaa0beba\jetified-easypermissions-1.1.3\AndroidManifest.xml:15:13-29
+91            android:theme="@style/EasyPermissions.Transparent" />
+91-->[pub.devrel:easypermissions:1.1.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\258d99a7bddad2bb2eec36b8eaa0beba\jetified-easypermissions-1.1.3\AndroidManifest.xml:16:13-63
+92
+93        <service
+93-->[com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:17:9-23:19
+94            android:name="com.google.firebase.components.ComponentDiscoveryService"
+94-->[com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:18:13-84
+95            android:directBootAware="true"
+95-->[com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+96            android:exported="false" >
+96-->[com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:19:13-37
+97            <meta-data
+97-->[com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:20:13-22:85
+98                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+98-->[com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:21:17-111
+99                android:value="com.google.firebase.components.ComponentRegistrar" />
+99-->[com.google.firebase:firebase-firestore:21.4.3] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\31c59e123adf982d21ed9bc80a0a4faf\firebase-firestore-21.4.3\AndroidManifest.xml:22:17-82
+100        </service>
+101
+102        <activity
+102-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+103            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+103-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+104            android:exported="false"
+104-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+105            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+105-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\37be93d88503de7454be5a5f96957cac\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+106
+107        <provider
+107-->[com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+108            android:name="com.google.firebase.provider.FirebaseInitProvider"
+108-->[com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+109            android:authorities="com.myhexaville.androidwebrtc.firebaseinitprovider"
+109-->[com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+110            android:exported="false"
+110-->[com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+111            android:initOrder="100" />
+111-->[com.google.firebase:firebase-common:19.3.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\3f1cce472841f11fe16cf955f9472ba3\firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+112
+113        <meta-data
+113-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\2465f099dd7150b541b6b858bc6f977b\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+114            android:name="com.google.android.gms.version"
+114-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\2465f099dd7150b541b6b858bc6f977b\play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+115            android:value="@integer/google_play_services_version" />
+115-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\2465f099dd7150b541b6b858bc6f977b\play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+116    </application>
+117
+118</manifest>

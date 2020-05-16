@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">527072804818-0pgbe5lfn1qgkk36ebkbusm5pnciiapt.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://samplevideocall-7b435.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">527072804818</string>
+    <string name="google_api_key" translatable="false">AIzaSyAsRfcP-HU2Wh8HVyxtoPCbzsqFPwexwS4</string>
+    <string name="google_app_id" translatable="false">1:527072804818:android:17096e58b1d949c965920b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAsRfcP-HU2Wh8HVyxtoPCbzsqFPwexwS4</string>
+    <string name="google_storage_bucket" translatable="false">samplevideocall-7b435.appspot.com</string>
+    <string name="project_id" translatable="false">samplevideocall-7b435</string>
+</resources>
