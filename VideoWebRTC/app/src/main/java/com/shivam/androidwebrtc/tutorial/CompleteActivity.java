@@ -123,7 +123,11 @@ public class CompleteActivity extends AppCompatActivity {
 
     private void connectToSignallingServer() {
         try {
-            socket = IO.socket("https://calm-badlands-59575.herokuapp.com/");
+            // For me this was "http://192.168.1.220:3000";
+            // $ hostname -I
+            String URL = "https://calm-badlands-59575.herokuapp.com/";
+            Log.e(TAG, "REPLACE ME: IO Socket:" + URL);
+            socket = IO.socket(URL);
 
             socket.on(EVENT_CONNECT, args -> {
                 Log.d(TAG, "connectToSignallingServer: connect");
@@ -294,7 +298,8 @@ public class CompleteActivity extends AppCompatActivity {
 
     private PeerConnection createPeerConnection(PeerConnectionFactory factory) {
         ArrayList<PeerConnection.IceServer> iceServers = new ArrayList<>();
-        iceServers.add(new PeerConnection.IceServer("stun:stun.l.google.com:19302"));
+        String URL = "stun:stun.l.google.com:19302";
+        iceServers.add(new PeerConnection.IceServer(URL));
 
         PeerConnection.RTCConfiguration rtcConfig = new PeerConnection.RTCConfiguration(iceServers);
         MediaConstraints pcConstraints = new MediaConstraints();
