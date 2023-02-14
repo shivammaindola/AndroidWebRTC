@@ -15,7 +15,7 @@ $ hostname -I
 ## Run
 1. Install node
 2. `$ cd SignalingServer && npm i && node index.js`
-3. Open `VideoWebRTC` in Andriod Studio and run on your device
+3. Open `VideoWebRTC` in Android Studio and run on your device
 4. Open `http://localhost:3000` in your webbrowser from your computer
 
 ## Opening in the browser
